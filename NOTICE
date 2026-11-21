@@ -1,0 +1,9 @@
+RustyConfigLib (RCL)
+Copyright (C) 2026 RustyConfigLib Contributors
+
+This library is a Rust port and inspired by YetAnotherConfigLib (YACL)
+originally created by Alexander / isXander and contributors.
+Source: https://github.com/isXander/YetAnotherConfigLib
+
+Licensed under the GNU Lesser General Public License, Version 3.0 (LGPL-3.0-or-later).
+See LICENSE for details.

@@ -1,0 +1,11 @@
+[package]
+name = "sample-mod"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+rcl-core = { path = "../../crates/rcl-core" }
+rcl-macros = { path = "../../crates/rcl-macros" }
+serde.workspace = true
