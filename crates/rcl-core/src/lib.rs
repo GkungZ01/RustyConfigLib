@@ -1,3 +1,4 @@
+pub mod binding;
 pub mod category;
 pub mod controller;
 pub mod error;
@@ -5,6 +6,7 @@ pub mod group;
 pub mod option;
 pub mod storage;
 
+pub use binding::{Binding, DirectBinding};
 pub use category::ConfigCategory;
 pub use controller::Controller;
 pub use error::RclError;
