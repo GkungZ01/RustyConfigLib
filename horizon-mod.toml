@@ -1,0 +1,13 @@
+id = "rusty_config_lib"
+name = "RustyConfigLib"
+version = "0.1.0"
+description = "Configuration and UI settings library/mod for Horizon Minecraft"
+authors = ["GkungZ01"]
+license = "LGPL-3.0-or-later"
+api = "0.2"
+side = "client"
+capabilities = ["registries"]
+
+[native]
+game = "26.3"
+horizon = "0a875da91dbb0fdcb7ba8c42c11341aa229af51a"
